@@ -20,7 +20,7 @@
     "css-loader": "^3.5.3",
     "eslint": "^7.0.0",
     "eslint-loader": "^4.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^3.0.2",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
